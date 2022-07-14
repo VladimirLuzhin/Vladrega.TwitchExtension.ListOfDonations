@@ -22,4 +22,4 @@ OR
 yarn start
 ```
 
-Application must be open in **Twith Developer Rig** for corrective work, because widget sends request for getting data only after **window.Twitch.ext.onAuthorized** callback.
+Application must be open in **Twith Developer Rig** for corrective work, because *Panel* widget sends request for getting data only after **window.Twitch.ext.onAuthorized** callback.
