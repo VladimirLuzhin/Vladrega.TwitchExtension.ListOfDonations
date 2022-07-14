@@ -15,13 +15,13 @@ This extension allow you say thank you for your top donators in beaty form =)
 # How To
 
 ### 1. Step one. Open Config widget.
-![Step one]("images/How To/Step one.png")
+![Step one]("images/HowTo/StepOne.png")
 
 ### 2. Step two. Add list of donations
-![Step two](images/How To/Step two.png)
+![Step two](images/HowTo/StepTwo.png)
 
 ### 3. Step three. Open streamer page
-![Step three](images/How To/Step three.png)
+![Step three](images/HowTo/StepThree.png)
 
 ### 4. You are breathtaking!
-![Breathtaking](images/How To/breathtaking.jpg)
+![Breathtaking](images/HowTo/breathtaking.jpg)
