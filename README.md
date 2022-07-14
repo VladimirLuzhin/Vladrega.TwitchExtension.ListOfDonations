@@ -17,10 +17,10 @@ This extension allow you say thank you for your top donators in beaty form =)
 ### 1. Step one. Open Config widget.
 ![Step one](images/HowTo/StepOne.png)
 
-### 2. Step two. Add list of donations
+### 2. Step two. Add list of donations, after that press save
 ![Step two](images/HowTo/StepTwo.png)
 
-### 3. Step three. Open streamer page
+### 3. Step three. Open stream page
 ![Step three](images/HowTo/StepThree.png)
 
 ### 4. You are breathtaking!
