@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vladrega.ListOfDonations", "Vladrega.ListOfDonations\Vladrega.ListOfDonations.csproj", "{28201166-F7B2-49CE-92A6-D65399788A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vladrega.ListOfDonations.Application", "Vladrega.ListOfDonations.Application\Vladrega.ListOfDonations.Application.csproj", "{FA858ABF-DCE8-437A-A67B-F77D9CD9F76F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vladrega.ListOfDonations.Database", "Vladrega.ListOfDonations.Database\Vladrega.ListOfDonations.Database.csproj", "{9E2CCADE-DD49-4FB2-8BF2-1D0282E9AEC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28201166-F7B2-49CE-92A6-D65399788A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28201166-F7B2-49CE-92A6-D65399788A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28201166-F7B2-49CE-92A6-D65399788A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28201166-F7B2-49CE-92A6-D65399788A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA858ABF-DCE8-437A-A67B-F77D9CD9F76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA858ABF-DCE8-437A-A67B-F77D9CD9F76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA858ABF-DCE8-437A-A67B-F77D9CD9F76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA858ABF-DCE8-437A-A67B-F77D9CD9F76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2CCADE-DD49-4FB2-8BF2-1D0282E9AEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2CCADE-DD49-4FB2-8BF2-1D0282E9AEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2CCADE-DD49-4FB2-8BF2-1D0282E9AEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2CCADE-DD49-4FB2-8BF2-1D0282E9AEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
