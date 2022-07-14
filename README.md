@@ -15,7 +15,7 @@ This extension allow you say thank you for your top donators in beaty form =)
 # How To
 
 ### 1. Step one. Open Config widget.
-![Step one]("images/HowTo/StepOne.png")
+![Step one](images/HowTo/StepOne.png)
 
 ### 2. Step two. Add list of donations
 ![Step two](images/HowTo/StepTwo.png)
