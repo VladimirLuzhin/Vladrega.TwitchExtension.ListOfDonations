@@ -1,4 +1,4 @@
-# Vladrega.TwitchExtension.ListOfDonation
+# Vladrega.TwitchExtension.ListOfDonations
  
 This extension allow you say thank you for your top donators in beaty form =)
 
