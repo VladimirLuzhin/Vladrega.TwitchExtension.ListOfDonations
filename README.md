@@ -25,3 +25,8 @@ This extension allow you say thank you for your top donators in beaty form =)
 
 ### 4. You are breathtaking!
 ![Breathtaking](images/HowTo/breathtaking.jpg)
+
+# TODO
+- [ ] Интеграция с DonationAlerts
+- [ ] Инетграция с StreamLabs
+- [ ] Кастомизация виджета (темы, цветовая схема, шрифт, размер шрифта)
