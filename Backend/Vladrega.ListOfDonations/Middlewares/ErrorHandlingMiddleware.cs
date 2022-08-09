@@ -10,13 +10,15 @@ namespace Vladrega.ListOfDonations.Middlewares;
 public class ErrorHandlingMiddleware
 {
     private readonly RequestDelegate _next;
+    private readonly ILogger<ErrorHandlingMiddleware> _logger;
 
     /// <summary>
     /// .ctor
     /// </summary>
-    public ErrorHandlingMiddleware(RequestDelegate next)
+    public ErrorHandlingMiddleware(RequestDelegate next, ILoggerFactory loggerFactory)
     {
         _next = next;
+        _logger = loggerFactory.CreateLogger<ErrorHandlingMiddleware>();
     }
 
     /// <summary>
@@ -31,6 +33,8 @@ public class ErrorHandlingMiddleware
         }
         catch (Exception e)
         {
+            _logger.LogError(e, "При выполнении запроса произошла ошибка");
+            
             context.Response.ContentType = MediaTypeNames.Text.Plain;
             context.Response.StatusCode = (int) HttpStatusCode.InternalServerError;
             await context.Response.WriteAsync($"При выполнении запроса произошла ошибка: {e.Message}");
